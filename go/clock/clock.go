@@ -6,6 +6,8 @@ import (
 )
 
 const testVersion = 3
+
+// Constants to represent the fixed number of hours in a day and minutes in a hour
 const (
 	dayInHours    = 24
 	hourInMinutes = 60
